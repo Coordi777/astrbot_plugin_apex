@@ -1,4 +1,4 @@
-# helloworld
+# AstrBot of Apex
 
 AstrBot 插件模板
 
