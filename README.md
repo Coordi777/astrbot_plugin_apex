@@ -1,8 +1,8 @@
-# AstrBot of Apex
+# AstrBot of Apex Bot
 
-AstrBot 插件模板
+- 一款用于定时提醒打Apex的机器人，支持地图查询、玩家信息查询等功能。
 
-A template plugin for AstrBot plugin feature
+- 必须前往[APEXAPI](https://portal.apexlegendsapi.com/)申请属于自己的KEY，并替换`main.py`中的`API_KEY`，否则无法使用查询功能。
 
 # 支持
 
